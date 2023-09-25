@@ -1,9 +1,8 @@
-Stack ToDo Web Application
-
-## Overview
+ToDo Web Application
 
 This ToDo web application which includes MongoDB, Express.js, React, and Node.js. It allows users to create, manage, and organize their tasks efficiently.
-## Features
+
+#features
 
 - User registration and authentication
 - Create, update, and delete tasks
