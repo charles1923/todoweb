@@ -88,4 +88,4 @@ Follow these steps to set up the project locally:
   - Git and GitHub (for version control)
   - Postman (for API testing)
 
-make sure to replace placeholders like `yourusername`, `your_mongodb_uri`, and `your_jwt_secret` with actual values related to your project.
+make sure to replace placeholders like `yourusername`, `your_mongodb_uri`, and `your_jwt_secret` with actual values related to your project and the code file is in the master Branch
